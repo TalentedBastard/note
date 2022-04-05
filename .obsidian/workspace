@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "63a61a87bc954ac4",
+    "type": "split",
+    "children": [
+      {
+        "id": "27a0986f86dcae76",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "redis/基础数据类型.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf078c443e0cee49",
+    "type": "split",
+    "children": [
+      {
+        "id": "25696c7242673ef7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a673068e1c6613d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "643f414001c2805a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4c61a21206b2a69",
+    "type": "split",
+    "children": [
+      {
+        "id": "b350c2a299ee3b2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47b8fcaa293ace7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "redis/基础数据类型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "27a0986f86dcae76",
+  "lastOpenFiles": [
+    "redis/基础数据类型.md",
+    "python基础模块/time.md",
+    "README.md"
+  ]
+}
